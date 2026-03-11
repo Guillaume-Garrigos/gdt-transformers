@@ -15,4 +15,9 @@ Liste des exposés passés ou à venir (documents et prises de notes possiblemen
   :pencil: [Notes](https://github.com/Guillaume-Garrigos/gdt-transformers/blob/main/talks/20251124/scan.pdf)
 - Mer 11 Mar 2026, 16h00-17h00, Salle 2014 <br/>
   "*Whitebox Transformers via Sparse Rate Reduction*" par [Guillaume Garrigos](https://guillaume-garrigos.com/) <br/>
-  :pencil: [Notes](https://github.com/Guillaume-Garrigos/gdt-transformers/blob/main/talks/20260311/scan.pdf)
+  :pencil: [Notes](https://github.com/Guillaume-Garrigos/gdt-transformers/blob/main/talks/20260311/scan.pdf) <br/>
+  :pencil: [Notes but link is local](/talks/20260311/scan.pdf) <br/>
+  :pencil: [Notes but link is local with baseurl]({{ site.baseurl }}/talks/20260311/scan.pdf)
+
+
+

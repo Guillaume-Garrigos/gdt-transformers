@@ -1,7 +1,10 @@
-theme: jekyll-theme-cayman
 title: Groupe de Travail - Transformers
 description: Organisé sur une base bi-hebdomadaire, au LPSM.
 footer: 'The template of this webpage and its contents can be found on <a href="https://github.com/Guillaume-Garrigos/gdt-stats-probas">Github</a>.'
 
+url: "https://guillaume-garrigos.com"
+baseurl: "/gdt-transformers" # allows for local links to work
+
+theme: jekyll-theme-cayman
 plugins:
   - jemoji
