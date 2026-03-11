@@ -14,5 +14,5 @@ Liste des exposés passés ou à venir (documents et prises de notes possiblemen
   "*What are Transformers? Deuxième partie.*" par [Simon Coste](https://scoste.fr/) <br/>
   :pencil: [Notes](https://github.com/Guillaume-Garrigos/gdt-transformers/blob/main/_data/20251124/scan.pdf)
 - Mer 11 Mar 2026, 16h00-17h00, Salle 2014 <br/>
-  "*Whitebox Transformers via Sparse Rate Reduction?*" par [Guillaume Garrigos](https://guillaume-garrigos.com/) <br/>
+  "*Whitebox Transformers via Sparse Rate Reduction*" par [Guillaume Garrigos](https://guillaume-garrigos.com/) <br/>
   :pencil: [Notes](https://github.com/Guillaume-Garrigos/gdt-transformers/blob/main/_data/20260311/scan.pdf)
