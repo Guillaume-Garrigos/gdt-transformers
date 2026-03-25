@@ -19,7 +19,7 @@ Liste des exposés passés ou à venir (documents et prises de notes possiblemen
   <br/>
 - Mer 25 Mar 2026, 16h00-17h00, Salle 2036<br/>
   "*On the Expressive Power of Self-Attention Matrices*" par [Tam Le](https://ntamle.github.io/) <br/>
-  :newspaper: [Article](https://arxiv.org/abs/2106.03764)
+  :pencil: [Notes](/talks/20260325/notes.pdf)   :newspaper: [Article](https://arxiv.org/abs/2106.03764)
 
 
 
