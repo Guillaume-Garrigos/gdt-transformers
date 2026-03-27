@@ -9,17 +9,20 @@ Liste des exposés passés ou à venir (documents et prises de notes possiblemen
 
 - Lun 24 Nov 2025, 10h45-11h45, Salle 1016 <br/>
   "*What are Transformers?*" par [Simon Coste](https://scoste.fr/) <br/>
-  :pencil: [Notes](/talks/20251124/scan.pdf) :newspaper: [Article](https://arxiv.org/abs/1706.03762)
+  :newspaper: [Article](https://arxiv.org/abs/1706.03762) :pencil: [Notes](/talks/20251124/scan.pdf) 
 - Lun 01 Déc 2025, 10h45-11h45, Salle 2015 <br/>
   "*What are Transformers? Deuxième partie.*" par [Simon Coste](https://scoste.fr/) <br/>
-  :pencil: [Notes](/talks/20251124/scan.pdf) :newspaper: [Article](https://arxiv.org/abs/1706.03762)
+  :newspaper: [Article](https://arxiv.org/abs/1706.03762) :pencil: [Notes](/talks/20251124/scan.pdf) 
 - Mer 11 Mar 2026, 16h00-17h00, Salle 2014 <br/>
   "*Whitebox Transformers via Sparse Rate Reduction*" par [Guillaume Garrigos](https://guillaume-garrigos.com/) <br/>
-  :pencil: [Notes](/talks/20260311/scan.pdf)   :newspaper: [Article](https://arxiv.org/abs/2306.01129)
+  :newspaper: [Article](https://arxiv.org/abs/2306.01129) :pencil: [Notes](/talks/20260311/scan.pdf)   
   <br/>
 - Mer 25 Mar 2026, 16h00-17h00, Salle 2036<br/>
   "*On the Expressive Power of Self-Attention Matrices*" par [Tam Le](https://ntamle.github.io/) <br/>
-  :pencil: [Notes](/talks/20260325/notes.pdf)   :newspaper: [Article](https://arxiv.org/abs/2106.03764)
+  :newspaper: [Article](https://arxiv.org/abs/2106.03764) :pencil: [Notes](/talks/20260325/notes.pdf)   
+- Mer 08 Avr 2026, 16h00-17h00, Salle 2015<br/>
+  "*A mathematical perspective on Transformers*" par [Samuel Daudin](https://arxiv.org/a/daudin_s_1.html) <br/>
+  :newspaper: [Article](https://arxiv.org/abs/2312.10794)
 
 
 
