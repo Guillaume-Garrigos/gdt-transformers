@@ -16,7 +16,6 @@ Liste des exposés passés ou à venir (documents et prises de notes possiblemen
 - Mer 11 Mar 2026, 16h00-17h00, Salle 2014 <br/>
   "*Whitebox Transformers via Sparse Rate Reduction*" par [Guillaume Garrigos](https://guillaume-garrigos.com/) <br/>
   :newspaper: [Article](https://arxiv.org/abs/2306.01129) :pencil: [Notes](/talks/20260311/scan.pdf)   
-  <br/>
 - Mer 25 Mar 2026, 16h00-17h00, Salle 2036<br/>
   "*On the Expressive Power of Self-Attention Matrices*" par [Tam Le](https://ntamle.github.io/) <br/>
   :newspaper: [Article](https://arxiv.org/abs/2106.03764) :pencil: [Notes](/talks/20260325/notes.pdf)   
