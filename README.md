@@ -22,6 +22,8 @@ Liste des exposés passés ou à venir (documents et prises de notes possiblemen
 - Mer 08 Avr 2026, 16h00-17h00, Salle 2015<br/>
   "*A mathematical perspective on Transformers*" par [Samuel Daudin](https://arxiv.org/a/daudin_s_1.html) <br/>
   :newspaper: [Article](https://arxiv.org/abs/2312.10794)
+- Mer 13 Mai 2026, 16h00-17h00, Salle 2012<br/>
+  "*Attention-based PCA*" par [Rodrigo Maulen-Soto](https://rodrigomaulen.github.io/) <br/>
 
 
 
