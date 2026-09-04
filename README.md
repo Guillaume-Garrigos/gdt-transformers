@@ -2,7 +2,7 @@ Cette page regroupe les informations concernant le [GdT Transformers](https://gu
 
 Organisateurs pour l'année 2025-2026: Simon Coste, Guillaume Garrigos, Tam Le.
 
-:calendar: Vous pouvez vous abonner au calendrier du GdT en intégrant [ce fichier .ics](https://calendar.google.com/calendar/ical/bf059be5a5fd6243b028026af74ae13fedb87e6a3f12d82179b38237f47422ef%40group.calendar.google.com/public/basic.ics) à votre calendrier.
+:calendar: Vous pouvez vous abonner au calendrier du GdT en copiant [ce lien](https://calendar.google.com/calendar/ical/bf059be5a5fd6243b028026af74ae13fedb87e6a3f12d82179b38237f47422ef%40group.calendar.google.com/public/basic.ics) dans votre calendrier (plus de détails [ici](https://support.google.com/calendar/answer/37100)).
 
 Liste des exposés passés ou à venir (documents et prises de notes possiblement disponibles en lien): 
 
