@@ -18,6 +18,7 @@ More info at [https://support.google.com/calendar/answer/37100](https://support.
   - Check the box for Make available to public under Access permissions for events (note that this lets anyone view it).
   - Scroll down to Integrate calendar.
   - Copy the Public address in iCal format link to share with others so they can subscribe to live updates.
+  - Share the .ical link on your website. Maybe add a link to the above Google support page for instructions.
 2. What the participants can do
   - Copy the said link (downloading the ical file is useless)
   - In the left sidebar, scroll down to the Other calendars section.
